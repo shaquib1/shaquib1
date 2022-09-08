@@ -1,7 +1,7 @@
 
 
 
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kxM0Tenwv9hIFiXGv-BgsPuboWgvzimxMA&usqp=CAU.gif](https://shaquibalam.io)
+
 
 <h1 align="center">Hi 👋, I'm Shaquib Alam</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
