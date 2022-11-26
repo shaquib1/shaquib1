@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaquib Alam</h1>
 <h3 align="center">I am 3rd year student of B.Tech CSE from India</h3>
+<img align="right" width="400"  src="![image](https://user-images.githubusercontent.com/101167802/204091072-b03d9c7f-a70c-4bdf-a92f-a2551a57e15b.png)
+" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaquib1&label=Profile%20views&color=0e75b6&style=flat" alt="shaquib1" /> </p>
 
