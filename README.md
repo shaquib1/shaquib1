@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaquib Alam</h1>
 <h3 align="center">I am 3rd year student of B.Tech CSE from India</h3>
-<img aligh="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2WazVGfCt8hPyA2BO0RDFH&ust=1680871630076000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCto_yklf4CFQAAAAAdAAAAABAF"
+<img aligh="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2WazVGfCt8hPyA2BO0RDFH&ust=1680871630076000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCto_yklf4CFQAAAAAdAAAAABAF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaquib1&label=Profile%20views&color=0e75b6&style=flat" alt="shaquib1" /> </p>
 
