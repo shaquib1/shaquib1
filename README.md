@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack web development||MERN**
+- 🌱 I’m currently Working **Full stack web development||MERN**
 
 - 📫 How to reach me **shaquib2615@gmail.com**
 
