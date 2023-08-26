@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/shaquib_1" target="blank"><img src="https://img.shields.io/twitter/follow/shaquib_1?logo=twitter&style=for-the-badge" alt="shaquib_1" /></a> </p>
 
-- 🔭 I’m currently working on [Watch-Galaxy MERN Stack Project](https://github.com/shaquib1/WatchGalaxy)
+- 🔭 I’m currently working on [Watch-Galaxy](https://github.com/shaquib1/WatchGalaxy)
 
 - 🌱 I’m currently learning  **GCP , MERN Stack**
 
-- 💬 Ask me about **reactjs , C++**
+- 💬 Ask me about **reactjs , c++**
 
 - 📫 How to reach me **shaquib2615@gmail.com**
 
