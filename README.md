@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://dev.to/shaquib1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shaquib1" height="30" width="40" /></a>
 <a href="https://medium.com/@shaquib475" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="shaquib1" height="30" width="35" /></a>
-
 <a href="https://twitter.com/shaquib_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaquib_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdshaquib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdshaquib" height="30" width="40" /></a>
 </p>
