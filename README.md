@@ -27,4 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaquib1&show_icons=true&locale=en" alt="shaquib1" /></p>
 
+
 [![An image of @shaquib1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaquib1)](https://holopin.io/@shaquib1)
