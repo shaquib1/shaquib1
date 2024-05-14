@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Watch-Galaxy](https://github.com/shaquib1/WatchGalaxy)
 
-- 🌱 I’m currently learning  **GCP , MERN Stack**
+- 🌱 I’m currently learning  **MERN Stack , GCP**
 
 - 💬 Ask me about **reactjs , c++**
 
