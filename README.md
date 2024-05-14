@@ -30,3 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaquib1&" alt="shaquib1" /></p>
 
 [![An image of @shaquib1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaquib1)](https://holopin.io/@shaquib1)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaquib1" alt="shaquib1" /></a> </p>
