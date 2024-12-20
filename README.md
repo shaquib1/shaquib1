@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shaquib</h1>
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+<img align="right" alt="Coding" width="350" src="[https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966](https://camo.githubusercontent.com/abe04c0b2ccc0ef7d6677540854002171c38295caa13c50d2832274832442a99/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaquib1&label=Profile%20views&color=0e75b6&style=flat" alt="shaquib1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shaquib_1" target="blank"><img src="https://img.shields.io/twitter/follow/shaquib_1?logo=twitter&style=for-the-badge" alt="shaquib_1" /></a> </p>
